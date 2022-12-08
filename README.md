@@ -1,2 +1,2 @@
 # Pytorch Computer Vision Material
-Some material for learing Computer Vision and pytorch
+Some material for learning Computer Vision with pytorch.
