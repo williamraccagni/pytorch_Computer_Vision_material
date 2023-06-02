@@ -6,4 +6,4 @@ Order:
 - Linear Regression
 - Perceptron
 - Deep Neural Networks
-- Image Recognition
+- Deep Neural Networks MNIST
