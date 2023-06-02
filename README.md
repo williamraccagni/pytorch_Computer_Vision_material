@@ -5,3 +5,5 @@ Order:
 - Introduction Fundamentals
 - Linear Regression
 - Perceptron
+- Deep Neural Networks
+- Image Recognition
