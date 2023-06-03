@@ -9,3 +9,5 @@ Order:
 - Deep Neural Networks MNIST
 - Convolutional Neural Networks MNIST
 - Convolutional Neural Networks CIFAR 10
+- Transfer Learning
+- Style Transfer
