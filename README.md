@@ -8,3 +8,4 @@ Order:
 - Deep Neural Networks
 - Deep Neural Networks MNIST
 - Convolutional Neural Networks MNIST
+- Convolutional Neural Networks CIFAR 10
